@@ -1,0 +1,24 @@
+# Credentials & keys
+privkey.txt
+*.pem
+*.key
+.env
+.env.*
+
+# Proxy configs
+proxy.txt
+proxies.txt
+
+# Progress & logs
+progress.json
+overlayer_daily.log
+*.log
+*.pyc
+__pycache__/
+
+# Misc
+node_modules/
+2wdarn.zip
+SatMiner/
+satwallet.json
+wallets.json
